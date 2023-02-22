@@ -1,0 +1,121 @@
+body{
+    background-color: blue;
+}
+.logo{
+    width: 20%;
+}
+.navigation{
+    float: right;
+}
+.navigation ul li{
+    justify-content: right;
+    display: inline-block;
+    padding: 10px;
+    list-style-type: none;
+}
+.heading2{
+    color: blue;
+}
+.button{
+    color: blue;
+}
+.heading{
+    text-align: centre;
+    margin-left: 30%;
+}
+.image1{
+    width: 100%;
+
+
+}
+.logos{
+    height: 100%;
+    width: 100%;
+    padding: 0px 5px 0px;
+    display: flex;
+}
+.logo1{
+    width: 20%;
+    height: 10%;
+}
+.logo2{
+    width: 20%;
+    height: 10%;
+}
+.logo3{
+    width: 20%;
+    height: 10%;
+}
+.logo4{
+    width: 20%;
+    height: 10%;
+}
+.north{
+    padding: 50px;
+    border-radius: 30%;
+    border: 6px;color:black;
+    width: 50%;
+    height: 35%;
+    margin: 1em;
+    background-color: blue;
+}
+.west{
+    padding: 50px;
+    border-radius: 30%;
+    border: 6px;color: black;
+    width: 50%;
+    height: 35%;
+    margin: 1em;
+    background-color: aqua;
+}
+.east{
+    padding: 50px;
+    border-radius: 30%;
+    border: 6px;color: black;
+    width: 50%;
+    height: 35%;
+    margin: 1em;
+    background-color: brown;
+}
+.boxes{
+    display: flex;
+    
+}
+.box{
+    display: flex;
+    margin-right: 10%;
+}
+.do{}
+.day{
+    padding: 15px;
+    border-radius: 30px;
+    margin: 1em;
+}
+.unboxing{
+    padding: 15px;
+    border-radius: 30px;
+    margin: 1em;
+}
+.returns{
+    padding: 15px;
+    border-radius: 30px;
+    margin: 1em;
+}
+.see{
+    display: flex;
+}
+.time{
+    display: flex;
+}
+.everything{
+    background-color: white;
+    border: solid white;
+    margin: 3%;
+
+}
+
+
+
+
+    
+
