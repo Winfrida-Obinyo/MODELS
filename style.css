@@ -17,7 +17,8 @@ body{
     color: blue;
 }
 .button{
-    color: blue;
+    color: white;
+    background-color: blue;
 }
 .heading{
     text-align: centre;
@@ -85,7 +86,9 @@ body{
     display: flex;
     margin-right: 10%;
 }
-.do{}
+.do{
+    background-color: blue;
+}
 .day{
     padding: 15px;
     border-radius: 30px;
